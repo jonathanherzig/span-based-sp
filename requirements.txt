@@ -1,0 +1,4 @@
+git+git://github.com/allenai/allennlp.git@bae0c55e8c447811d9fa13f1c48f3e2576ab0dcc
+transformers==2.4.1
+treelib
+pyswip
