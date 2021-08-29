@@ -16,7 +16,7 @@ Author implementation of the following [ACL 2021 paper](https://aclanthology.org
     ```
     pip install -r requirements.txt
     ```
-4. Install swi-prolog with version <8 (this is a Prolog interpreter used to execute GeoQuery). For example, for Ubuntu follow [these instructions]([https://www.howtoinstall.me/ubuntu/18-04/swi-prolog/](https://www.howtoinstall.me/ubuntu/18-04/swi-prolog/)).
+4. Install swi-prolog with version <8 (this is a Prolog interpreter used to execute GeoQuery). For example, for Ubuntu follow [these instructions](https://www.howtoinstall.me/ubuntu/18-04/swi-prolog/).
 5. Download the [datasets](https://drive.google.com/file/d/1Srs_7hKtKhTunNWg1ThOlVo-rFFwFEq6/view?usp=sharing) and extract the content to `span-based-sp/datasets` 
 
 ## Training and evaluating the span-based parser
